@@ -7,8 +7,8 @@
 
 # 💫 About Me
 
-- 😄 Pronouns: He/His
-- 🔭 I'm currently working on a Fullstack Python Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I'm currently working on a Fullstack Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- I'm from India.
 - 💬 Ask me about Python, Web Development or any tech-related stuff.
 - 📫 How to reach me: Check the social links below.
 
