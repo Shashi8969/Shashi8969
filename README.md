@@ -4,7 +4,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />  I'm Shashi</h1>
-# 💫 About Me
+## 💫 About Me
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **MERN** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
