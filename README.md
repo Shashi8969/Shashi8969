@@ -4,12 +4,13 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />  I'm Shashi</h1>
-## 💫 About Me
-- A passionate frontend developer from India
+# 💫 About Me
 
-- 🌱 I’m currently learning **MERN** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
+- 😄 Pronouns: He/His
+- 🔭 I'm currently working on a Fullstack Python Project<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about Python, Web Development or any tech-related stuff.
 - 📫 How to reach me: Check the social links below.
+
 
 ## 🌐 Socials
 
