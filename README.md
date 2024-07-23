@@ -1,6 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi896&label=Views&color=blue&style=plastic&style=for-the-badge" alt="shashi8969" /> </p>
 
-<h1 align="center">Hi 👋, I'm Shashi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />  I'm Shashi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **MERN** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
