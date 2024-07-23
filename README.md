@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi896&label=Views&color=blue&style=plastic&style=for-the-badge" alt="shashi8969" /> </p>
+
 <h1 align="center">Hi 👋, I'm Shashi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
