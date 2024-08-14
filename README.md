@@ -15,9 +15,8 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajgirioffl)
-[![Skype](https://img.shields.io/badge/Skype-009EDC?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/ueCeIiuYjHSn)
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/surajgirioffl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi89)
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shashi_raj_89)
 [![Email](https://img.shields.io/badge/email-477CE3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashikumar10062@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
